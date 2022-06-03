@@ -49,7 +49,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🤖 Bot Owner", url=f"https://t.me/{OWNER_USERNAME}")
+                        "🤖 Bot Owner", url=f"https://t.me/C_A_N_D_Y_O_/P")
                 ]
             ]
         ),
