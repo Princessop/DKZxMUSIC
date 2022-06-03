@@ -25,7 +25,7 @@ def song(client, message):
 
     query = "".join(" " + str(i) for i in message.command[1:])
     print(query)
-    m = message.reply("🔎 Finding the song...")
+    m = message.reply("🔎 Candy server Finding the song...")
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=5).to_dict()
@@ -43,7 +43,7 @@ def song(client, message):
 
     except Exception as e:
         m.edit(
-            "❌ Found Nothing. Sorry.\n\nTry another keyword or maybe spell it properly."
+            "❌ CANDY SERVER Found Nothing. Sorry.\n\nTry another keyword or maybe spell it properly."
         )
         print(str(e))
         return
