@@ -23,7 +23,7 @@ async def load_start():
             await app.edit_message_text(
                 restart_data["chat_id"],
                 restart_data["message_id"],
-                "**Restarted the Bot Successfully.**",
+                "**DKZ Restarted the Bot Successfully.**",
             )
         except Exception:
             pass
@@ -40,10 +40,10 @@ async def load_start():
         except Exception as e:
             print("Error came while clearing db")
             pass
-    await app.send_message(OWNER_ID, "**M8N Music Bot Started Successfully !!**")
+    await app.send_message(OWNER_ID, "**DKZ Music Bot Started Successfully !!**")
    # Copyrighted Area
-    await client.join_chat("M8N_SUPPORT")
-    await client.join_chat("M8N_OFFICIAL")
+    await client.join_chat("DOSTO_KI_ZHOPDI")
+    await client.join_chat("DOSTO_KI_ZHOPDI")
     print("[INFO]: STARTED")
     
 
