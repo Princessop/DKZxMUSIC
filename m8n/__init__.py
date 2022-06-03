@@ -1,4 +1,4 @@
-# By : Pavan Magar
+# By : CANDY
 
 import asyncio
 import importlib
