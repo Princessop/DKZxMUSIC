@@ -179,7 +179,7 @@ Click on the given inline buttons to know all the information about the Bot !!""
                     InlineKeyboardButton("👤 Owner", url=f"https://t.me/{OWNER_USERNAME}"),
                     InlineKeyboardButton("🎸 Assistant", url=f"https://t.me/{ASSUSERNAME}")
                 ],[
-                    InlineKeyboardButton("🤖 Source Code", url="https://github.com/UnknownMortal/M8N-Music-Bot")
+                    InlineKeyboardButton("🤖 Source Code", url="https://t.me/DOSTO_KI_ZHOPDI")
                 ],[
                     InlineKeyboardButton("⬅️ Back", callback_data="cbhome")
                 ],
