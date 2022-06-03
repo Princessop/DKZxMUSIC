@@ -1,7 +1,7 @@
-### A powerful bot that can play music on telegram group's voice chat with some useful features !!
+### DKZ powerful bot that can play music on telegram group's voice chat with some useful features !!
 
 <p align="center">
-  <img src="https://telegra.ph/file/00a389a0c21a632ee29aa.jpg">
+  <img src="https://te.legra.ph/file/af8a3d92d1ad66049b41b.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -41,35 +41,16 @@
 - `/userbotleaveall` - remove assistant of all groups
 
 
-### 🚨 Generate String Session
-      @M8N_SESSION_BOT by using this bot
 
 
 ### 🚀 Deploy To Heroku
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/UnknownMortal/M8N-Music-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/princessop/DKZxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Contact & Support
 
-<a href="https://t.me/M8N_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/M8N_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/DOSTO_KI_ZHOPDI"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/DOSTO_KI_ZHOPDI"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
 
-## License
 
-Distributed under the [GNU General Public License v3.0 License](https://github.com/UnknownMortal/M8N-Music-Bot/blob/main/LICENSE) See `LICENSE.md` for more information.
-
-## Credits
-
-</details>
-
-<details>
-<summary><b>🌟 Click here to see Credits </b></summary>
-<br>
- 
-- CallsMusic 
-- PavanMagar
-- Pyrogram
-- Mortal
-- M8N
-- PyTgCalls
