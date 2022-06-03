@@ -43,17 +43,17 @@
         "SUPPORT": {
             "description": "Fill with your support group username without @",
             "required": true,
-            "value": "M8N_SUPPORT"
+            "value": "DOSTO_KI_ZHOPDI"
         },
         "UPDATE": {
             "description": "Fill with your Update Channel username without @",
             "required": true,
-            "value": "M8N_OFFICIAL"
+            "value": "DOSTO_KI_ZHOPDI"
         },
         "OWNER_USERNAME": {
             "description": "Fill with the Bot Owner Username without @",
             "required": true,
-            "value": "Its_romeoo"
+            "value": "C_A_N_D_Y_O_P"
         },
         "BOT_NAME": {
             "description": "fill with telegram name of bot",
