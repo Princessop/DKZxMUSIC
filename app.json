@@ -1,9 +1,9 @@
 {
-    "name": "M8N Music Bot",
+    "name": "𝙳𝙺𝚉 𝙼𝚄𝚂𝙸𝙲",
     "description": "Powerful telegram's group voice chat music player. Run on python3 !!",
-    "logo": "https://telegra.ph/file/22265bda0d1d8c2b1978a.jpg",
+    "logo": "https://te.legra.ph/file/af8a3d92d1ad66049b41b.jpg",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/UnknownMortal/M8N-Music-Bot",
+    "repository": "https://github.com/princessop/DKZxMUSIC",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -77,7 +77,7 @@
         },
         "START_PIC": {
             "description": "Enter the telegraph link of an image or contact @M8N_SUPPORT",
-            "value": "https://telegra.ph/file/e3bbcfcf96e85553aff4a.jpg",
+            "value": "https://te.legra.ph/file/af8a3d92d1ad66049b41b.jpg",
             "required": true
         },
         "API_ID": {
@@ -93,7 +93,7 @@
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5058236569"
+            "value": ""
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !!",
